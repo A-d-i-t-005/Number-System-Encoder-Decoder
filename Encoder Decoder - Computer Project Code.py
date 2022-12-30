@@ -169,5 +169,3 @@ def base64(e):
     rep(w)    
     
 mainloop()
-
-
